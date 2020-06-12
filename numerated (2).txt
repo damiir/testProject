@@ -1,0 +1,4 @@
+file content added-zero
+line one-two
+line two-three
+line three-four
